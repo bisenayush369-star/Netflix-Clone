@@ -6,8 +6,7 @@ This project focuses on modern UI design, layout accuracy, and responsiveness in
 ---
 
 ## 🚀 Live Preview
-(Add your deployed link here)
-https://your-live-link-here
+https://bisenayush369-star.github.io/Netflix-Clone/
 
 ---
 
