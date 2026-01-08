@@ -29,12 +29,11 @@ https://bisenayush369-star.github.io/Netflix-Clone/
 
 ---
 
-## 📂 Project Structure
-│
-├── index.html
-├── style.css
-├── assets/
-│ ├── bg.jpg
-│ └── images/
-│ └── logo.svg
-└── README.md
+## 👨‍💻 Dev
+Ayush (AyushdevX)
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a star on GitHub.
